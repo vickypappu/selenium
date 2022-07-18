@@ -1,0 +1,30 @@
+{'Date': '16/06/2022', 'Time': '11:58:35', 'Application Name': 'selenium', 'Scenario Name': '2', 'Status': 'Passed', 'Time Taken': '0:00:07', 'Message': ''},
+
+{'Date': '16/06/2022', 'Time': '17:41:41', 'Application Name': 'selenium', 'Scenario Name': '2', 'Status': 'Passed', 'Time Taken': '0:00:05', 'Message': ''},
+
+{'Date': '01/07/2022', 'Time': '11:16:29', 'Application Name': 'selenium', 'Scenario Name': '2', 'Status': 'Passed', 'Time Taken': '0:00:05', 'Message': ''},
+
+{'Date': '01/07/2022', 'Time': '11:16:58', 'Application Name': 'selenium', 'Scenario Name': '2', 'Status': 'Passed', 'Time Taken': '0:00:05', 'Message': ''},
+
+{'Date': '01/07/2022', 'Time': '11:16:58', 'Application Name': 'selenium', 'Scenario Name': '', 'Status': 'Passed', 'Time Taken': '0:00:09', 'Message': ''},
+
+{'Date': '01/07/2022', 'Time': '11:16:58', 'Application Name': 'selenium', 'Scenario Name': '', 'Status': 'Failed', 'Time Taken': '0:00:26', 'Message': ' no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id="react-burger-menu-btn"]"}'},
+
+{'Date': '01/07/2022', 'Time': '11:22:55', 'Application Name': 'selenium', 'Scenario Name': '2', 'Status': 'Passed', 'Time Taken': '0:00:05', 'Message': ''},
+
+{'Date': '01/07/2022', 'Time': '11:23:22', 'Application Name': 'selenium', 'Scenario Name': '2', 'Status': 'Passed', 'Time Taken': '0:00:05', 'Message': ''},
+
+{'Date': '01/07/2022', 'Time': '11:23:22', 'Application Name': 'selenium', 'Scenario Name': '', 'Status': 'Passed', 'Time Taken': '0:00:08', 'Message': ''},
+
+{'Date': '01/07/2022', 'Time': '11:23:22', 'Application Name': 'selenium', 'Scenario Name': '', 'Status': 'Failed', 'Time Taken': '0:00:25', 'Message': ' no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id="react-burger-menu-btn"]"}'},
+
+{'Date': '01/07/2022', 'Time': '11:39:33', 'Application Name': 'selenium', 'Scenario Name': '', 'Status': 'Passed', 'Time Taken': '0:00:08', 'Message': ''},
+
+{'Date': '01/07/2022', 'Time': '11:39:33', 'Application Name': 'selenium', 'Scenario Name': '', 'Status': 'Failed', 'Time Taken': '0:00:25', 'Message': ' no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id="react-burger-menu-btn"]"}'},
+
+{'Date': '11/07/2022', 'Time': '15:15:13', 'Application Name': 'selenium', 'Scenario Name': '2', 'Status': 'Passed', 'Time Taken': '0:00:05', 'Message': ''},
+
+{'Date': '11/07/2022', 'Time': '15:15:43', 'Application Name': 'selenium', 'Scenario Name': '2', 'Status': 'Passed', 'Time Taken': '0:00:04', 'Message': ''},
+
+{'Date': '11/07/2022', 'Time': '15:19:29', 'Application Name': 'selenium', 'Scenario Name': '2', 'Status': 'Passed', 'Time Taken': '0:00:04', 'Message': ''},
+

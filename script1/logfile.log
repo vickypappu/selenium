@@ -1,0 +1,4 @@
+failed:
+HTTPConnectionPool(host='192.168.43.5', port=5010): Max retries exceeded with url: /getApplication (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AE859B52A0>, 'Connection to 192.168.43.5 timed out. (connect timeout=None)'))
+ 
+ total time taken : 0:00:27
