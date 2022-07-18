@@ -1,1 +1,1 @@
-python  D:\\iTAP\\Recorded_Scenarios\\selenium\\2\\script.py
+python  script.py
